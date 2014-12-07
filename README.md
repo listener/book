@@ -1,8 +1,6 @@
 Book sales management system:
 ====
 
- 
-
 ![image](https://github.com/listener/book/blob/master/.book.png)
 
 1、此解决方案是由VC# 2013创建，数据库采用了MSSQL 2008 . 
